@@ -1,6 +1,8 @@
 # tensorflow_CarPlate_Detection
 Detect the car license plate and plate number using EasyOCR.
 
+I followed <a href="https://www.youtube.com/watch?v=0-4p_QgrdbE&t=42s&ab_channel=NicholasRenotte">Nicholas</a> tutorial on YouTube and trained my very first car license plate detection model with Tensorflow and EasyOCR.
+
 Test results:
 
 1. <br/>
