@@ -103,7 +103,7 @@ def ocr_it(image, detections, detection_threshold, region_threshold):
     width = image.shape[1]
     height = image.shape[0]
     
-    print("Found: " + str(len(boxes)) + "Plate(s).")
+    print("Found: " + str(len(boxes)) + " Plate(s).")
     # Apply ROI filtering and OCR
     for idx, box in enumerate(boxes):
         roi = box * [height, width, height, width]
