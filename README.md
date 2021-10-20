@@ -23,7 +23,7 @@ Image Source: https://news.tvbs.com.tw/life/67125
 <br/>
 <br/>
 4. <br/>
-<img src="https://github.com/PDooDP/tensorflow_CarPlate_Detection/blob/master/Tensorflow/workspace/images/results/result_4.png?raw=true" width="1000" height="400">
+<img src="https://github.com/PDooDP/tensorflow_CarPlate_Detection/blob/master/Tensorflow/workspace/images/results/result_4.png?raw=true" width="1000" height="600">
 <br/>
 <br/>
 Source: Google Images
